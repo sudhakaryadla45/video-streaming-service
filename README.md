@@ -1,10 +1,6 @@
 # spring-boot-streaming
 spring-boot, video streaming, jpa, lombok
 
-
-![capture](https://raw.githubusercontent.com/tinywind/spring-boot-streaming/master/capture.png "comment")
-
-
 # How to Play: Method 1
 * Install maven3, jdk1.8
 * compile command: `$ mvn compile`
